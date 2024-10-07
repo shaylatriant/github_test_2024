@@ -9,3 +9,7 @@ output: html_document
 source("setup.R")
 ```
 
+```{r}
+data("kmz.bison")
+```
+
